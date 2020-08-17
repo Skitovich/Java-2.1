@@ -15,7 +15,8 @@
 
 1. 75% успешных
 1. 25% не успешных тестов (функционал работает не корректно)
-2. Ссылки на баг-репорты
+2. https://github.com/Skitovich/Java-2.1/issues/1
+1. https://github.com/Skitovich/Java-2.1/issues/2
 
 ## Общие рекомендации
 
